@@ -1,0 +1,4 @@
+node_modules
+.idea
+assignment_log.json
+.env
